@@ -12,7 +12,7 @@
 
   * chaos --> order
 
-  	![Alt text](https://github.com/MonkStrom/CSCI2961_Lab8/blob/master/Chaos-Order.png)
+  	 ![Alt text](https://github.com/MonkStrom/CSCI_Lab8/blob/master/Chaos-Order.png)
 
 3. Project: lichess
 
